@@ -201,7 +201,7 @@ export default function Contact() {
               <h4 className="font-bold">Why Work With Me?</h4>
 
               <div className="mt-4 space-y-2 text-sm">
-                <p>✅ 2+ Years Experience</p>
+                <p>✅ 3 Years Experience</p>
                 <p>✅ 6+ Projects Delivered</p>
                 <p>✅ Full Stack Development</p>
                 <p>✅ ASP.NET Core & Angular Specialist</p>
