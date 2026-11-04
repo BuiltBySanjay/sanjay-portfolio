@@ -31,7 +31,7 @@ function Counter({ to, suffix = "" }: { to: number; suffix?: string }) {
 }
 
 const stats = [
-  { icon: Briefcase, value: 2, suffix: "+", label: "Years Experience" },
+  { icon: Briefcase, value: 3, suffix: "", label: "Years Experience" },
   { icon: FolderGit2, value: 6, suffix: "+", label: "Projects Completed" },
   { icon: Layers, value: 12, suffix: "+", label: "Technologies" },
   { icon: Award, value: 2, suffix: "", label: "Domains Served" },
