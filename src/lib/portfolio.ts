@@ -5,8 +5,8 @@ export const profile = {
   location: "Chennai, Tamil Nadu, India",
   // Replace with your real WhatsApp number (country code + number, digits only)
   whatsapp: "918667039411",
-  linkedin: "https://linkedin.com/in/sanjay-kumar-8b748919a",
-  github: "https://github.com/Sanjaykumar45",
+  linkedin: "https://www.linkedin.com/in/builtbysanjay/",
+  github: "https://github.com/builtbysanjay",
   resume: "/Resume.pdf",
 };
 
